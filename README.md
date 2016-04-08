@@ -1,12 +1,12 @@
 # az-rel-nofollow-wp-plugin
 This plugin add rel-nofollow to all ahref links in your posts
 
-Installing:
+# Installing:
 
 Just clone or download this repo to your Wordpress plugin directory (wp-content/plugins) go to plugins in wordpress and ativate it.
 
 
-Attention:
+# Attention:
 
 If you don`t want to add rel=nofolow to cirtain domain you can exclude them by putting them in option page "Settings"->"rel=nofollow"
 
